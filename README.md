@@ -50,7 +50,6 @@ A robust Java-based expense tracking application built with Maven, designed to h
 - **Monthly Report**: Visual breakdown of expenses.  
   ![Report](screenshots/monthly-report.png)
 
-*Replace with actual images in the `screenshots/` directory.*
 
 ## API Endpoints (if web-based)
 - `GET /api/transactions` - Fetch all expenses
