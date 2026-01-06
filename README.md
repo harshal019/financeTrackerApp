@@ -53,10 +53,10 @@ A robust Java-based expense tracking application built with Maven, designed to h
 *Replace with actual images in the `screenshots/` directory.*
 
 ## API Endpoints (if web-based)
-- `GET /api/expenses` - Fetch all expenses
-- `POST /api/expenses` - Create a new expense
-- `PUT /api/expenses/{id}` - Update an expense
-- `DELETE /api/expenses/{id}` - Delete an expense
+- `GET /api/transactions` - Fetch all expenses
+- `POST /api/transactions` - Create a new expense
+- `PUT /api/transactions/{id}` - Update an expense
+- `DELETE /api/transactions/{id}` - Delete an expense
 
 ## Contributing
 1. Fork the repo.
