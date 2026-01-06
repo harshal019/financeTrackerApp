@@ -1,4 +1,4 @@
-package main.java.com.expenseapp.servlet;
+package com.expenseapp.servlet;
 
 import com.expenseapp.service.TransactionService;
 import javax.servlet.ServletException;
