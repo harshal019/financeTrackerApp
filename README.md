@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# financeTrackerApp
-This is Finace Tracker Website 
-=======
+
 # Expense Tracker
 
 A robust Java-based expense tracking application built with Maven, designed to help users manage personal finances efficiently.
@@ -77,4 +74,4 @@ mvn test
 
 
 
->>>>>>> master
+
